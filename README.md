@@ -2,7 +2,7 @@
 
     This is an HTML/CSS team project.
 
-    There are responsive layout> slider, modal window, burger menu.
+    There are responsive layout, slider, modal window, burger menu.
 
     My role is a developer.
 
