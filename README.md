@@ -1,4 +1,4 @@
-    Hello. This is the Ice cream web site.
+    Hello. Ice cream is a web site with with a responsive layout.
 
     This is an HTML/CSS team project.
 
