@@ -9,3 +9,5 @@
     My piece of work - header.
 
     Used technologies: HTML, SASS, JavaScript, Parcel
+
+    Link to live page: https://dmitry-abakumov.github.io/ice-cream/
